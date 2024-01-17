@@ -10,6 +10,9 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
+  - name: News
+    url: '#News'
+    weight: 50
   - name: Publications
     url: '#featured'
     weight: 50
