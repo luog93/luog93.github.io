@@ -22,7 +22,7 @@ role: PhD candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: South China University of Technology
-    url: https://www.scut.edu.cn/new/
+    # url: https://www.scut.edu.cn/new/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include affective computing , AIGC and multimodal computing.
