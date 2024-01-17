@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 罗钢
+# title: 罗钢
 
 # Name pronunciation (optional)
 name_pronunciation: Luo Gang
@@ -32,59 +32,62 @@ interests:
   - Multimodal computing
   - Affective Computing
   - AIGC
+  - Brain-Computer Interactions
+  - Artificial Intelligence
+
 
 # Education to show in About widget
 education:
   courses:
     - course: EngD in Electronic Information
-      institution: South China University of Technology
-      year: 2024-
+      institution: South China University of Technology, China
+      year: 2024
     - course: MASc in Computer Technology
-      institution: Nanchang University
-      year: 2021-2024
+      institution: Nanchang University, China
+      year: 2021
     - course: BSc in Software Engineering
-      institution: East China University of Technology
-      year: 2017-2021
+      institution: East China University of Technology, China
+      year: 2017
 
-# Skills
+# Skills 删除
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +123,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am currently a PhD candidate student from the School of Future Technology, Department of Computer Technology, South China University of Technology(SCUT), China, supervised by Prof. Qi Liu. My research interests cover the broad areas of affective computing, brain-computer interactions, Multimodal computing AIGC, bioinformatics, AI for science, machine learning, and artificial intelligence.
+
+I obtained my Master degree in the School of Mathematics and Computer Sciences, Department of Computer Technology, Nanchang University(NCU), China, supervised by Prof. Sheng-bo Chen and Prof. Hong Rao. I obtained my Bachelor degree in the School of Software, Department of Software, East China University of Technology(ECUT), China.
+
 {style="text-align: justify;"}
