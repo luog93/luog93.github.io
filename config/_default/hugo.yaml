@@ -7,7 +7,7 @@ title: Gang Luo # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
-## LANGUAGE
+## LANGUAGE 
 ############################
 
 defaultContentLanguage: en
