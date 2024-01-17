@@ -3,11 +3,11 @@
 title: 罗钢
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Luo Gang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gang
+last_name: Luo
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: South China University of Technology
+    url: https://www.scut.edu.cn/new/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include affective computing , AIGC and multimodal computing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multimodal computing
+  - Affective Computing
+  - AIGC
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: EngD in Electronic Information
+      institution: South China University of Technology
+      year: 2024-
+    - course: MASc in Computer Technology
+      institution: Nanchang University
+      year: 2021-2024
+    - course: BSc in Software Engineering
+      institution: East China University of Technology
+      year: 2017-2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -105,7 +105,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/luog93
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
