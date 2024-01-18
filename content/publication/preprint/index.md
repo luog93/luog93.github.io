@@ -1,13 +1,12 @@
 ---
-title: "Exploring Adaptive Graph Topologies and Temporal Graph Networks for EEG-Based Depression Detection"
+title: "An example preprint / working paper"
 authors:
-# - admin
-- Gang Luo; Hong Rao; Panfeng An; Yunxia Li; Ruiyun Hong; Wenwu Chen; Shengbo Chen
-date: "2023-09-28T00:00:00Z"
+- admin
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-28T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,23 +14,23 @@ publishDate: "2023-09-28T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: " IEEE Transactions on Neural Systems and Rehabilitation Engineering ( Volume: 31)"
+publication: ""
 publication_short: ""
 
-abstract: In recent years, Graph Neural Networks (GNNs) based on deep learning techniques have achieved promising results in EEG-based depression detection tasks but still have some limitations. Firstly, most existing GNN-based methods use pre-computed graph adjacency matrices, which ignore the differences in brain networks between individuals. Additionally, methods based on graph-structured data do not consider the temporal dependency information of brain networks. To address these issues, we propose a deep learning algorithm that explores adaptive graph topologies and temporal graph networks for EEG-based depression detection. Specifically, we designed an Adaptive Graph Topology Generation (AGTG) module that can adaptively model the real-time connectivity of the brain networks, revealing differences between individuals. In addition, we designed a Graph Convolutional Gated Recurrent Unit (GCGRU) module to capture the temporal dynamical changes of brain networks. To further explore the differential features between depressed and healthy individuals, we adopt Graph Topology-based Max-Pooling (GTMP) module to extract graph representation vectors accurately. We conduct a comparative analysis with several advanced algorithms on both public and our own datasets. The results reveal that our final model achieves the highest Area Under the Receiver Operating Characteristic Curve (AUROC) on both datasets, with values of 83% and 99%, respectively. Furthermore, we perform extensive validation experiments demonstrating our proposed method’s effectiveness and advantages. Finally, we present a comprehensive discussion on the differences in brain networks between healthy and depressed individuals based on the outputs of our final model’s AGTG and GTMP modules.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: True
+featured: false
 
 links:
 - name: Custom Link
-  url: https://ieeexplore.ieee.org/document/10268256
-url_pdf: '#'
-url_code: '#'
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -46,24 +45,24 @@ image:
   focal_point: ""
   preview_only: false
 
-# # Associated Projects (optional).
-# #   Associate this publication with one or more of your projects.
-# #   Simply enter your project's folder or file name without extension.
-# #   E.g. `internal-project` references `content/project/internal-project/index.md`.
-# #   Otherwise, set `projects: []`.
-# projects:
-# - internal-project
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
 
-# # Slides (optional).
-# #   Associate this publication with Markdown slides.
-# #   Simply enter your slide deck's filename without extension.
-# #   E.g. `slides: "example"` references `content/slides/example/index.md`.
-# #   Otherwise, set `slides: ""`.
-# slides: example
-# ---
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
 
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
