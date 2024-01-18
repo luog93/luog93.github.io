@@ -123,8 +123,8 @@ social:
 highlight_name: true
 ---
 
-Hi, I am currently a PhD candidate student from the School of Future Technology, Department of Computer Technology, South China University of Technology(SCUT), China, supervised by Prof. Qi Liu. My research interests cover the broad areas of affective computing, brain-computer interactions, Multimodal computing AIGC, bioinformatics, AI for science, machine learning, and artificial intelligence.
+Hi, I am currently a PhD candidate student from the [School of Future Technology](https://www2.scut.edu.cn/ft/main.htm), Department of Computer Technology, [South China University of Technology](https://www.scut.edu.cn/new/) (SCUT), China, supervised by [Prof. Qi Liu](https://drliuqi.github.io/) and [Dr. Jie Guo](#). My research interests cover the broad areas of affective computing, brain-computer interactions, Multimodal computing AIGC, bioinformatics, AI for science, machine learning, and artificial intelligence.
 
-I obtained my Master degree in the School of Mathematics and Computer Sciences, Department of Computer Technology, Nanchang University(NCU), China, supervised by Prof. Sheng-bo Chen and Prof. Hong Rao. I obtained my Bachelor degree in the School of Software, Department of Software, East China University of Technology(ECUT), China.
+I obtained my Master degree in the [School of Mathematics and Computer Sciences](https://smcs.ncu.edu.cn/index.html), Department of Computer Technology, [Nanchang University](https://www.ncu.edu.cn/) (NCU), China, supervised by Prof. Sheng-bo Chen and Prof. Hong Rao. I obtained my Bachelor degree in the School of Software, Department of Software, (East China University of Technology](https://www.ecut.edu.cn/main.htm) (ECUT), China.
 
 {style="text-align: justify;"}
