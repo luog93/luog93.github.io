@@ -123,6 +123,8 @@ social:
 highlight_name: true
 ---
 
+<font color=Blue>Always looking for collaboration on multimodal computing and LLMs to work on understanding how the brain works! Feel free to email me if you are interested!</font>
+
 Hi, I am currently a PhD candidate student from the [School of Future Technology](https://www2.scut.edu.cn/ft/main.htm), Department of Computer Technology, [South China University of Technology](https://www.scut.edu.cn/new/) (SCUT), China, supervised by [Prof. Qi Liu](https://drliuqi.github.io/) and [Dr. Jie Guo](https://scholar.google.com/citations?hl=zh-CN&user=9QLVTUYAAAAJ). My research interests cover the broad areas of affective computing, brain-computer interactions, Multimodal computing AIGC, bioinformatics, AI for science, machine learning, and artificial intelligence.
 
 I obtained my Master degree in the [School of Mathematics and Computer Sciences](https://smcs.ncu.edu.cn/index.html), Department of Computer Technology, [Nanchang University](https://www.ncu.edu.cn/) (NCU), China, supervised by [Prof. Sheng-bo Chen](https://scholar.google.com/citations?hl=zh-CN&user=1R41irMAAAAJ) and [Prof. Hong Rao](https://soft.ncu.edu.cn/szdw/zzjs/R/15228a5065c44cd3a27165dc0ec65e90.htm). I obtained my Bachelor degree in the School of Software, Department of Software, [East China University of Technology](https://www.ecut.edu.cn/main.htm) (ECUT), China.
