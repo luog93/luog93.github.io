@@ -161,7 +161,7 @@ sections:
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
-      text: |-[List of all publications >>](./publication/).
+      text: [List of all publications >>](./publication/).
       filters:
         folders:
           - publication
