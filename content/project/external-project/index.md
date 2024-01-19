@@ -1,9 +1,9 @@
 ---
 title: Large Multimodal Media Model
-summary:  The Large multimodal media model framework is proposed to achieve input, inference, and generation of modalities such as text, images, videos, audio, 3D, sensors, and drivers.
+summary: The Large multimodal media model framework is proposed to achieve input, inference, and generation of modalities such as text, images, videos, audio, 3D, sensors, and drivers.
 tags:
   - AIGC
-date: "2024-01-30T00:00:00Z"
+date: '2023-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://example.org
@@ -18,7 +18,7 @@ image:
 The commercial implementation of AIGC technology has attracted much attention, and text-to-image modal generation technology is expected to change our content production and consumption methods, bringing new imaginative space to the industry. Based on the current research, a Large multimodal media model framework is proposed to achieve input, inference, and generation of modalities such as text, images, videos, audio, 3D, sensors, and drivers. The framework takes the Large language model as the center of logical reasoning, transforming data from different modalities into a cohesive tensor as input. After the Large model reasoning, the output tensor is restored to the target modality, making the big model an advanced operating system with reasoning and thinking abilities. 
 Here are some key points:
 
-**Representation** A multimodal media model needs to effectively represent and process media data of different modalities, such as text, images, videos, audio, 3D, etc. For each modality, it is necessary to choose an appropriate representation method for further processing and analysis in the model.
+**Representation**: A multimodal media model needs to effectively represent and process media data of different modalities, such as text, images, videos, audio, 3D, etc. For each modality, it is necessary to choose an appropriate representation method for further processing and analysis in the model.
 
 **Alignment**: In multimodal data, there may be correlation and correspondence between modalities. Alignment refers to matching and associating nonmodal data so the model can understand their relationships.
 

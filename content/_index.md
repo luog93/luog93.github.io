@@ -189,11 +189,11 @@ sections:
           tag: Deep learning
         - name: AIGC
           tag: AIGC
-        - name: Other
-          tag: Demo
+        # - name: Other
+        #   tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
