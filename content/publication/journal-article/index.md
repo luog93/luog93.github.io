@@ -63,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["Affective Brain-Comouter Interactions"]
+projects: ['Deep learning']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

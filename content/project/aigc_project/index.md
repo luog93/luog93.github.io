@@ -6,7 +6,7 @@ tags:
 date: '2023-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: '/external-project/'
+external_link: '/project/aigc_project'
 
 image:
   caption: Photo
