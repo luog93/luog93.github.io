@@ -8,8 +8,8 @@ authors:
 - Ruiyun Hong
 - Wenwu Chen
 - Shengbo Chen
-author_notes:
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
 # - "Equal contribution"
 date: "2023-09-28T00:00:00Z"
 doi: "10.1109/TNSRE.2023.3320693"
@@ -33,8 +33,10 @@ abstract: In recent years, Graph Neural Networks (GNNs) based on deep learning t
 
 tags:
 - Affective Computing
-# featured: false
-featured: True
+- Brain-Computer Interactions
+- Artificial Intelligence
+featured: false
+# featured: true
 
 # links:
 # - name: ""
@@ -51,7 +53,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Model Framework'
+  # caption: 'Model Framework: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -60,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Affective Computing]
+projects: ["Affective Computing"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
