@@ -1,7 +1,7 @@
 ---
 title: "Exploring Adaptive Graph Topologies and Temporal Graph Networks for EEG-Based Depression Detection"
 authors:
-- Gang Luo
+- admin
 - Rao Hong 
 - Panfeng An
 - Yunxia Li
