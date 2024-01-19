@@ -1,16 +1,21 @@
 ---
-title: "An example journal article"
+title: "Exploring Adaptive Graph Topologies and Temporal Graph Networks for EEG-Based Depression Detection"
 authors:
-- admin
-- Robert Ford
+- Gang Luo
+- Rao Hong 
+- Panfeng An
+- Yunxia Li
+- Ruiyun Hong
+- Wenwu Chen
+- Shengbo Chen
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+# - "Equal contribution"
+date: "2023-09-28T00:00:00Z"
+doi: "10.1109/TNSRE.2023.3320693"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-09-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,22 +23,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: " IEEE Transactions on Neural Systems and Rehabilitation Engineering ( Volume: 31)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In recent years, Graph Neural Networks (GNNs) based on deep learning techniques have achieved promising results in EEG-based depression detection tasks but still have some limitations. Firstly, most existing GNN-based methods use pre-computed graph adjacency matrices, which ignore the differences in brain networks between individuals. Additionally, methods based on graph-structured data do not consider the temporal dependency information of brain networks. To address these issues, we propose a deep learning algorithm that explores adaptive graph topologies and temporal graph networks for EEG-based depression detection. Specifically, we designed an Adaptive Graph Topology Generation (AGTG) module that can adaptively model the real-time connectivity of the brain networks, revealing differences between individuals. In addition, we designed a Graph Convolutional Gated Recurrent Unit (GCGRU) module to capture the temporal dynamical changes of brain networks. To further explore the differential features between depressed and healthy individuals, we adopt Graph Topology-based Max-Pooling (GTMP) module to extract graph representation vectors accurately. We conduct a comparative analysis with several advanced algorithms on both public and our own datasets. The results reveal that our final model achieves the highest Area Under the Receiver Operating Characteristic Curve (AUROC) on both datasets, with values of 83% and 99%, respectively. Furthermore, we perform extensive validation experiments demonstrating our proposed method’s effectiveness and advantages. Finally, we present a comprehensive discussion on the differences in brain networks between healthy and depressed individuals based on the outputs of our final model’s AGTG and GTMP modules.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+- Affective Computing
+# featured: false
+featured: True
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268256
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -54,17 +60,18 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [Affective Computing]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
+slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -72,4 +79,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

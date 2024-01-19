@@ -185,8 +185,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Affective Computing
+          tag: Affective Computing
+        - name: AI for science
+          tag: AI for science
         - name: Other
           tag: Demo
     design:
